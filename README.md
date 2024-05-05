@@ -19,7 +19,7 @@ This project is a phone e-commerce website developed using Node.js, React, and P
 
 ## Installation
 
-1. Clone the project: `git clone https://github.com/username/phone-commerce.git`
+1. Clone the project: `git clone https://github.com/emrullahayaz9/phone-commerce.git`
 2. Navigate to the folder: `cd frontend`
 3. Install dependencies: `npm install`
 4. Set up the PostgreSQL database.
